@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BehaviorPra</string>
     <string name="title_activity_bottom_behavior">BottomBehaviorActivity</string>
+    <string name="bottom_behavior_dialog">com.hujie.behaviorpra.BottomDialog</string>
 </resources>
